@@ -1,5 +1,5 @@
 # What is NunitCustomAddon
-Nunit Custom Addon library is a helper to extract the Test Results if you are using the NUnit and C#. You can read more about the concept in [official documentation Event Listeners](https://docs.nunit.org/articles/nunit-engine/extensions/creating-extensions/Event-Listeners.html)
+Nunit Custom Addon library is a helper to extract the Test Results if you are using the NUnit and C#. At the End of complete run you would like to capture the Test Results with out doing additional code then you can use the Addon I have created for the same purpose. You can read more about the concept in [official documentation Event Listeners](https://docs.nunit.org/articles/nunit-engine/extensions/creating-extensions/Event-Listeners.html)
 
 ### How to implement your own NUnit Event Listener
 
